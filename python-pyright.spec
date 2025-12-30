@@ -4,7 +4,7 @@
 
 Name:		python-pyright
 Version:	1.1.398
-Release:	2
+Release:	3
 Summary:	Command line wrapper for pyright
 URL:		https://pypi.org/project/pyright/
 License:	MIT
