@@ -3,7 +3,7 @@
 %bcond tests 0
 
 Name:		python-pyright
-Version:	1.1.410
+Version:	1.1.411
 Release:	1
 Summary:	Command line wrapper for pyright
 License:	MIT
