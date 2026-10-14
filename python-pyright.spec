@@ -4,7 +4,7 @@
 
 Name:		python-pyright
 Version:	1.1.411
-Release:	1
+Release:	2
 Summary:	Command line wrapper for pyright
 License:	MIT
 Group:		Development/Python
